@@ -1,0 +1,1 @@
+[project]\nname = "genpark-sdk-version-compatibility-and-deprecation-resolver-skill"\nversion = "1.0.0"\ndescription = "Detects deprecated SDK patterns and provides modern version-compatible replacements for coding agents"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
