@@ -1,0 +1,1 @@
+# genpark-sdk-version-compatibility-and-deprecation-resolver-skill\n\nDetects deprecated SDK patterns and provides modern version-compatible replacements for coding agents.\n\n100% Python Standard Library implementation with zero external dependencies.
