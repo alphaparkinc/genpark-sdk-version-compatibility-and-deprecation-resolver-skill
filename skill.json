@@ -1,0 +1,8 @@
+{
+  "name": "genpark-sdk-version-compatibility-and-deprecation-resolver-skill",
+  "version": "1.0.0",
+  "description": "Detects deprecated SDK patterns and provides modern version-compatible replacements for coding agents",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
